@@ -11,7 +11,7 @@ This idea can ofcourse be extended to some other use cases like maintaining a tr
 ![Read II](http://i.imgur.com/OSKihiU.png)
 
 ### What I learnt -
- - This web application has been a javascript refresher for me.
+ - This web application has been a javascript/html/css refresher for me.
 
 ### Resources -
   -  Eloquent Javascript : http://eloquentjavascript.net/contents.html
