@@ -1,6 +1,7 @@
 ## Overview
 
-Splavor is a foodie's blog. 
+Splavor is a foodie's catalog of his favorite recipes inlaid with some equally good food pictures. I've often found myself browsing online for food recipes and realized that there are aren't many blogs/sites designed just to serve this purpose i.e. a blog about food photography. With this in mind I decided to design something which will encourage foodie's to create their own food catalog's.
+This idea can ofcourse be extended to some other use cases like maintaining a travel catalog, a shopping catalog.
 
 ### Screenshots -
 ![Landing Page](http://i.imgur.com/vwcCvsx.png)
@@ -10,11 +11,12 @@ Splavor is a foodie's blog.
 ![Read II](http://i.imgur.com/OSKihiU.png)
 
 ### What I learnt -
- - This exercise was more like a javascript refresher for me. Refer to javascript notes for more detail.
+ - This web application has been a javascript refresher for me.
 
 ### Resources -
   -  Eloquent Javascript : http://eloquentjavascript.net/contents.html
-  -  jQuery (a fast, small, and feature-rich JavaScript library) : http://jquery.com/. 
+  -  Javascript: The Good Parts by O'Reilly
+  -  jQuery (a fast, small, and feature-rich JavaScript library) : http://jquery.com/ 
 
 ### Acknowledgement -
 The inspiration for the UI came from a popular blog reading site Pulse.
