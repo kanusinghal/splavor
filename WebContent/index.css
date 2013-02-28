@@ -34,13 +34,45 @@ a {
   width: 230px;
   overflow-y: hidden;
   overflow-x: hidden;
- }
+}
+
+.nav-app-title {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 67px;
+  box-sizing: border-box;
+  border-botom: 1px solid #101010;
+  text-align: center;
+  font-weight: bold;
+  font-size: 27px;
+  font-family: fantasy;
+  padding-top: 20px;
+  color: #FF6600;
+  background: #282828;
+}
+
+#header_top {
+  position: absolute;
+  top: 0;
+  left: 230px;
+  right: 0;
+  height: 67px;
+  border-bottom: 1px solid #101010;
+  background: #282828;
+  color: #FFCC00;
+  padding-top: 27px;
+  padding-left: 20px;
+  font-weight: bold;
+  font-family: Georgia, serif;
+  font-size: 17px;
+}
  
 #main-nav {
   position: absolute;
-  /*top: 67px;
-  bottom: 56px;*/
-  top: 0;
+  top: 67px;
+  /*bottom: 56px;*/
   bottom: 0;
   left: 0;
   right: -100px;
@@ -155,7 +187,7 @@ li#left-nav-catalog-container {
 
 #content_container {
   position: absolute;
-  top: 0;
+  top: 67px;
   left: 230px;
   bottom: 0;
   right: 0;
