@@ -1,7 +1,7 @@
 ## Overview
 
-Splavor is a foodie's catalog of his favorite recipes inlaid with some equally good food pictures. I've often found myself browsing online for food recipes and realized that there are aren't many blogs/sites designed just to serve this purpose i.e. a blog about food photography. With this in mind I decided to design something which will encourage foodie's to create their own food catalog's.
-This idea can ofcourse be extended to some other use cases like maintaining a travel catalog, a shopping catalog.
+Splavor is a foodie's catalog of favorite recipes inlaid with some equally good food pictures. I've often found myself browsing online for food recipes and realized that there are aren't many blogs/sites designed just to serve this purpose i.e. a blog about food photography. With this in mind I decided to design something which will encourage foodie's to create their own food catalogs.
+This idea can of course be extended to some other use cases like maintaining a travel catalog, a shopping catalog, etc.
 
 ### Screenshots -
 ![Landing Page](http://i.imgur.com/vwcCvsx.png)
